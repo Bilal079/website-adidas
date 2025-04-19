@@ -220,7 +220,7 @@ select {
 
 
 a:link {
-  color: #000; /* normal link */
+  color: white; /* normal link */
 }
 a:visited {
   color: #555; /* visited link */
@@ -246,3 +246,6 @@ a:hover {
 
   .footer-links a:visited {
     color: #ccc;
+.product-grid .product a p strong {
+	color: #000;
+}
